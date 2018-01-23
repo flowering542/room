@@ -46,7 +46,7 @@
 * 状态图
 * 活动图
 ![zt]
-![a]
+![q]
 ![b]
 #### 4.规划管理
  - 需求规格说明书
@@ -77,6 +77,6 @@
 [er]:/images/er.png "E-R图"
 [pdm]:/images/pdm.png "物理模型"
 [sx]:/images/sx.png "预定房间顺序图"
-[a]:/images/a.png "前台操作员的活动图"
+[q]:/images/q.png "前台操作员的活动图"
 [b]:/images/b.png "系统管理员的活动图"
 [zt]:/images/zt.png "顾客会员变化状态图"
