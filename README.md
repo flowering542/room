@@ -47,7 +47,7 @@
 * 活动图
 ![zt]
 ![q]
-![b]
+![a]
 #### 4.规划管理
  - 需求规格说明书
  - 概要设计说明书
@@ -78,5 +78,5 @@
 [pdm]:/images/pdm.png "物理模型"
 [sx]:/images/sx.png "预定房间顺序图"
 [q]:/images/q.png "前台操作员的活动图"
-[b]:/images/b.png "系统管理员的活动图"
+[a]:/images/a.png "系统管理员的活动图"
 [zt]:/images/zt.png "顾客会员变化状态图"
