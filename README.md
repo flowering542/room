@@ -1,5 +1,5 @@
 # room
-基于javaEE+jqueryEasyUi+eclipseLInk(课程设计客房管理信息系统)
+基于javaEE+jqueryEasyUi+eclipseLink(课程设计客房管理信息系统)
 ----
 ### 一.初始阶段
 #### 1.可行性分析
